@@ -1,0 +1,20 @@
+{
+  "name": "wikibot",
+  "version": "1.0.1",
+  "description": "A Slack Bot for wikipedia",
+  "main": "index.js",
+  "scripts": {
+    "start": "export $(cat .env) && node index"
+  },
+  "keywords": [
+    "Wiki",
+    "Slack"
+  ],
+  "author": "Paul Asjes",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^2.1.0",
+    "slack-client": "^1.5.1",
+    "superagent": "^1.7.1"
+  }
+}

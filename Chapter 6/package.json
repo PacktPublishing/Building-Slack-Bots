@@ -1,0 +1,15 @@
+{
+  "name": "webhook-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Asjes <p.asjes@gmail.com> (http://www.paulasjes.com)",
+  "license": "ISC",
+  "dependencies": {
+    "node-wolfram": "0.0.1",
+    "superagent": "^1.8.3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "chapter5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "export $(cat .env) && nodemon index.js"
+  },
+  "author": "Paul Asjes <p.asjes@gmail.com> (http://www.paulasjes.com)",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^2.2.1",
+    "async": "^1.5.2",
+    "natural": "^0.2.1",
+    "redis": "^2.4.2",
+    "superagent": "^1.8.1"
+  }
+}
