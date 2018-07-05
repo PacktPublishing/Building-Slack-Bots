@@ -1,6 +1,6 @@
 'use strict';
 
-const Bot = require('./Bot');
+const Bot = require('./bot');
 const request = require('superagent');
 
 const wikiAPI = "https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro=&explaintext=&titles="
