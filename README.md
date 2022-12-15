@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781786460806)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Building Slack Bots
 
 *[Building Slack Bots](https://www.packtpub.com/application-development/building-slack-bots?utm_source=github&utm_medium=repository&utm_campaign=9781786460806)* will teach you how to use a myriad of tools to build the very best bots for the Slack platform. Whether you are a programming beginner or a seasoned veteran, by the end of this book, you will be able to create high-quality bots whose only limit is the your imagination. You might also pick up a few tricks along the way.
